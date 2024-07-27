@@ -1,0 +1,29 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore CSV files
+*.csv
+
+# Ignore other files
+*.log
+*.sqlite3
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
